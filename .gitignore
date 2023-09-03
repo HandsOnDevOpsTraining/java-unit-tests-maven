@@ -1,0 +1,29 @@
+# Compiled class files
+target/
+
+# Maven build directory
+.mvn/
+
+# IntelliJ IDEA files
+.idea/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Compiled binaries and libraries
+*.class
+*.jar
+*.war
+*.ear
+
+# Gradle files
+.gradle/
+build/
