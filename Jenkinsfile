@@ -28,13 +28,6 @@ pipeline {
                 sh 'docker build -t aug-batch-image .'
             }
         }
-
-        stage('Publish Docker Image') {
-            steps {
-                // Build Docker image for the Java application
-                sh 'docker push '
-            }
-        }
     }
 
     post {
