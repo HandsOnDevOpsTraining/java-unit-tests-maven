@@ -1,7 +1,9 @@
 Java (For Backend or Server applications)
 
-1. What is the application and where is the repository url?
-   - https://github.com/HandsOnDevOpsTraining/java-unit-tests-maven/
+1. DevOps Engineer -> What is the application and where is the repository url?
+   Developers ->
+   - Github - https://github.com/HandsOnDevOpsTraining/java-unit-tests-maven/
+   - Azure Repos - https://dev.azure.com/handsondevopstraining0146/RealTimeJavaProject/_git/RealTimeJavaProject
 2. What is the programming language?
    - Java is the programming language
 3. What is the build tool or what is the package manager?
