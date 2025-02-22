@@ -1,3 +1,12 @@
+Microsoft Azure DevOps Sample Yaml Pipeline
+
+https://learn.microsoft.com/en-us/azure/devops/pipelines/ecosystems/java?view=azure-devops
+
+Microsoft Sample Github Java Code
+https://github.com/MicrosoftDocs/pipelines-java
+
+
+
 https://learn.microsoft.com/en-us/azure/devops/pipelines/tasks/reference/copy-files-v2?view=azure-pipelines&tabs=yaml
 
 <img width="1107" alt="image" src="https://github.com/user-attachments/assets/66214114-7e75-4562-98c7-90c0078d11b6">
