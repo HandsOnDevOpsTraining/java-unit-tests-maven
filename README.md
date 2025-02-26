@@ -29,3 +29,7 @@ sudo systemctl restart jenkins
 You can verify if the user was added to the group by running:
 groups jenkins
 ```
+
+
+SonarQube pipeline
+https://dev.azure.com/june2024devops/JavaMaven/_apps/hub/ms.vss-ciworkflow.build-ci-hub?_a=edit-build-definition&id=22
